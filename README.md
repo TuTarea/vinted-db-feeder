@@ -1,5 +1,8 @@
 # Vinted data scrapper
 
+> 📣📣 **DEPRECATED** This project has been integrated as a subdirectory of the main repository: [vinted-rs](https://github.com/ThalosES/vinted-rs)
+> 
+
 A series of data scrappers in Python that extract static information from the Vinted source code, being the perfect complement for a Vinted API wrapper.
 
 ## Install & Run
